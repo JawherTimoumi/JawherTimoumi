@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JawherTimoumi from Tunisia
 - 👀 I’m interested in Civil / Structural Engineering
 - 🌱 I’m currently learning Renewable Energy Systems in Germany
-- 💞️ I’m looking to collaborate on Civil engineering prjects
+- 💞️ I’m looking to collaborate on Civil Engineering projects
 - 📫 How to reach me jwtimoumi@gmail.com
 
 <!---
